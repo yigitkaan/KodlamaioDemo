@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\KodlamaioPractice\\CRUD\\CRUD.csproj",
+      "projectUniqueName": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\KodlamaioDemo\\CRUD\\CRUD.csproj",
       "projectName": "CRUD",
-      "projectPath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\KodlamaioPractice\\CRUD\\CRUD.csproj",
+      "projectPath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\KodlamaioDemo\\CRUD\\CRUD.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\KodlamaioPractice\\CRUD\\obj\\",
+      "outputPath": "D:\\C# PROGRAMLAMA\\YOUTUBE ENGİN DEMİROĞ C#\\KodlamaioDemo\\CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
