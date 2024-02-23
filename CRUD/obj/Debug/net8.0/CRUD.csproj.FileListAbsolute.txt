@@ -1,0 +1,14 @@
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\bin\Debug\net8.0\CRUD.exe
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\bin\Debug\net8.0\CRUD.deps.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\bin\Debug\net8.0\CRUD.runtimeconfig.json
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\bin\Debug\net8.0\CRUD.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\bin\Debug\net8.0\CRUD.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfoInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfo.cs
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.csproj.CoreCompileInputs.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\refint\CRUD.dll
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.pdb
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
+D:\C# PROGRAMLAMA\YOUTUBE ENGİN DEMİROĞ C#\KodlamaioPractice\CRUD\obj\Debug\net8.0\ref\CRUD.dll
